@@ -1,6 +1,4 @@
 # <div align="center">IMU Integration Donkeycar Framework</div>
-### <div align="center"> MAE 148 Final Project </div>
-#### <div align="center"> Team 7 Winter 2025 </div>
 
 <div align="center">
      <img src="Images\bumblebee.png" width="800" height="600">
